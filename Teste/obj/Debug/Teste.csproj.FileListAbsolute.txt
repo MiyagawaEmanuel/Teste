@@ -1,0 +1,24 @@
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\bin\Debug\Teste.exe.config
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\bin\Debug\Teste.exe
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\bin\Debug\Teste.pdb
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\bin\Debug\EntityFramework.dll
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\bin\Debug\MySql.Data.dll
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\bin\Debug\EntityFramework.xml
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\obj\Debug\Teste.exe
+c:\users\emanuel\documents\visual studio 2017\Projects\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\Emanuel\Source\Repos\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel\Source\Repos\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Emanuel\Source\Repos\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\Emanuel\Source\Repos\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Emanuel\Source\Repos\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Emanuel\Source\Repos\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Emanuel\Source\Repos\Teste\Teste\bin\Debug\EntityFramework.dll
+C:\Users\Emanuel\Source\Repos\Teste\Teste\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emanuel\Source\Repos\Teste\Teste\bin\Debug\MySql.Data.dll
+C:\Users\Emanuel\Source\Repos\Teste\Teste\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Emanuel\Source\Repos\Teste\Teste\bin\Debug\EntityFramework.xml
+C:\Users\Emanuel\Source\Repos\Teste\Teste\bin\Debug\EntityFramework.SqlServer.xml
