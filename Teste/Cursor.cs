@@ -53,7 +53,7 @@ namespace Teste
             _id = id;
             try
             {
-                string myConnectionString = "server=127.0.0.1;uid=root;pwd=Kur0N3k0;database=task_quest;";
+                string myConnectionString = "server=127.0.0.1;uid=root;pwd=aluno;database=task_quest;";
                 _connection = new MySqlConnection
                 {
                     ConnectionString = myConnectionString
