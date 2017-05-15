@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Teste
 {
@@ -6,8 +6,9 @@ namespace Teste
     {
         static void Main()
         {
-            gru_grupo grupo = new gru_grupo("Faculdade", "Roxo", false);
-            Cursor.ExecuteQuery(grupo, "Insert");
+            gru_grupo grupo = new gru_grupo("RH", "Azul", false);
+            Console.WriteLine(Cursor.ExecuteQuery(grupo, "Insert"));
+            Console.ReadLine();
         }
     }
 }
